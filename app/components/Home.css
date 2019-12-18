@@ -1,0 +1,11 @@
+.browser {
+  width: 60%;
+  height: 60%;
+}
+
+.container {
+  position: relative;
+
+  height: 100%;
+  width: 100%;
+}
